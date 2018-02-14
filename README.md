@@ -1,2 +1,3 @@
 # UsingGit
-Learning Git
+#first sample
+if this was a code
